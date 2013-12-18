@@ -14,7 +14,7 @@
 
 ## 目次
 
-- [RPubs - Rによるやさしい統計学 - 第一章 Rと統計学](http://rpubs.com/azu/stats_with_R_1 "RPubs - Rによるやさしい統計学 - 第一章 Rと統計学")
+- [第一章 Rと統計学](http://rpubs.com/azu/stats_with_R_1 "RPubs - Rによるやさしい統計学 - 第一章 Rと統計学")
 
 ## Contributing
 
