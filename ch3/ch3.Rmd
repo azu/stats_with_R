@@ -178,4 +178,4 @@ cor(MathOneOrZero,StatsOneOrZero)
 
 ## 練習問題
 
-
+> exercises.R
