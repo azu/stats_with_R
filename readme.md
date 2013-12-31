@@ -15,8 +15,9 @@
 ## 目次
 
 - [第1章 Rと統計学](http://rpubs.com/azu/stats_with_R_1 "RPubs - Rによるやさしい統計学 - 第一章 Rと統計学")
-- [第2章 1つの変数の 記述統計](http://rpubs.com/azu/stats_with_R_2 "RPubs - 第2章 1つの変数の 記述統計")
+- [第2章 1つの変数の記述統計](http://rpubs.com/azu/stats_with_R_2 "RPubs - 第2章 1つの変数の記述統計")
 - [第3章 2つの変数の記述統計](http://rpubs.com/azu/stats_with_R_3 "RPubs - 第3章 2つの変数の記述統計")
+- [第4章 母集団と標本](http://rpubs.com/azu/stats_with_R_4 "RPubs - 第4章 母集団と標本")
 
 ## Contributing
 
